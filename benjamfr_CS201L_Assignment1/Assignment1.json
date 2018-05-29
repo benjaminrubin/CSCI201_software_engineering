@@ -1,0 +1,52 @@
+{
+	"students": [{
+			"name": {
+				"fname": "Tommy",
+				"lname": "Trojan"
+
+			},
+			"average": "86",
+			"numGrades": "4"
+		},
+		{
+			"name": {
+				"fname": "George",
+				"lname": "Tirebiter"
+			},
+			"average": "74",
+			"numGrades": "6"
+		},
+		{
+			"name": {
+				"fname": "Billy",
+				"lname": "Bruin"
+			},
+			"average": "63",
+			"numGrades": "1"
+		},
+		{
+			"name": {
+				"fname": "Jeffrey",
+				"lname": "Miller"
+			},
+			"average": "92",
+			"numGrades": "5"
+		},
+		{
+			"name": {
+				"fname": "Michael",
+				"lname": "Shindler"
+			},
+			"average": "93",
+			"numGrades": "4"
+		},
+		{
+			"name": {
+				"fname": "Aaron",
+				"lname": "Cote"
+			},
+			"average": "90",
+			"numGrades": "7"
+		}
+	]
+}
