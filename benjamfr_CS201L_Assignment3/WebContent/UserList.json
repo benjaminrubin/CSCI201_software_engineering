@@ -1,0 +1,239 @@
+{
+"users": [
+{
+"username": "elautz",
+"password": "tcc",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/emma_lautz.jpg",
+"followers": [
+"mchai",
+"smurmu"
+],
+"following": [
+"deCaro",
+"big_Libowsky"
+],
+"library": {
+"read": [
+"Point Counter Point",
+"The Malteste Falcon",
+"Heart of Darkness"
+],
+"favorite": [
+"The Call of the Wild",
+"Silent Spring"
+]
+}
+},
+{
+"username": "big_Libowsky",
+"password": "dude",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/ruth_libowsky.jpg",
+"followers": [
+"elautz",
+"smurmu"
+],
+"following": [
+"deCaro",
+"ghazarian"
+],
+"library": {
+"read": [
+"The Grapes of Wrath",
+"Under the Volcano",
+"Invisible Man"
+],
+"favorite": [
+"Animal Farm",
+"Lord of the Flies"
+]
+}
+},
+{
+"username": "deCaro",
+"password": "sal",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/jonluca_decaro.jpg",
+"followers": [
+"elautz",
+"big_Libowsky"
+],
+"following": [
+"uddhav_j",
+"ghazarian"
+],
+"library": {
+"read": [
+"The Great Gatsby",
+"Ulysses"
+],
+"favorite": [
+"Lolita",
+"Catch-22"
+]
+}
+},
+{
+"username": "sarik",
+"password": "ghazarian",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/sarik_ghazarian.jpg",
+"followers": [
+"deCaro",
+"big_Libowsky"
+],
+"following": [
+"uddhav_j",
+"ttrojan"
+],
+"library": {
+"read": [
+"Alice's Adventures in Wonderland",
+"The Return of Sherlock Holmes"
+],
+"favorite": [
+"Tinker, Tailor, Soldier, Spy",
+"Percy Jackson and the Lightning Theif"
+]
+}
+},
+{
+"username": "uddhav_j",
+"password": "p4ssw0rd",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/uddhav_joglekar.jpg",
+"followers": [
+"sarik",
+"deCaro"
+],
+"following": [
+"ttrojan",
+"jmiller"
+],
+"library": {
+"read": [
+"The Things They Carried",
+"Things Fall Apart"
+],
+"favorite": [
+"Prometheus",
+"Atlas Shrugged"
+]
+}
+},
+{
+"username": "ttrojan",
+"password": "fighton",
+"imageURL": "http://grfx.cstv.com/photos/schools/usc/sports/genrel/auto_player/11869977.jpeg",
+"followers": [
+"jmiller",
+"mtanaka",
+"uddhav_j",
+"sarik"
+],
+"following": [
+"jmiller"
+],
+"library": {
+"read": [
+"All Quiet on the Western Front",
+"The Catcher in the Rye"
+],
+"favorite": [
+"Cardinal and Gold: The Oral History of USC Trojans Football",
+"Fight On!: The Colorful Story of Usc Football"
+]
+}
+},
+{
+"username": "jmiller",
+"password": "201prof",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/jeffrey_miller.jpg",
+"followers": [
+"ttrojan",
+"uddhav_j"
+],
+"following": [
+"ttrojan",
+"mtanaka",
+"mchai"
+],
+"library": {
+"read": [
+"Lean Software Development: An Agile Toolkit: An Agile Toolkit",
+"Driverless: Intelligent Cars and the Road Ahead"
+],
+"favorite": [
+"All the Light We Cannot See: A Novel"
+]
+}
+},
+{
+"username": "mtanaka",
+"password": "hafaadai",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/matteo_tanaka.jpg",
+"followers": [
+"jmiller",
+"mchai",
+"smurmu"
+],
+"following": [
+"ttrojan"
+],
+"library": {
+"read": [
+"The Number of the Beast",
+"Dune",
+"The Things They Carried"
+],
+"favorite": [
+"Dune",
+"Watership Down"
+]
+}
+},
+{
+"username": "mchai",
+"password": "shrekislove",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/melody_chai.jpg",
+"followers": [
+"jmiller",
+"smurmu"
+],
+"following": [
+"mtanaka",
+"elautz"
+],
+"library": {
+"read": [
+"Farenheit 451",
+"Brave New World",
+"A Clockwork Orange"
+],
+"favorite": [
+"1984",
+"Farenheit 451",
+"Brave New World"
+]
+}
+},
+{
+"username": "smurmu",
+"password": "shrekislife",
+"imageURL": "http://www-scf.usc.edu/~csci201/images/sondhayni_murmu.jpg",
+"followers": [
+"mtanaka"
+],
+"following": [
+"mchai",
+"mtanaka",
+"big_Libowsky"
+],
+"library": {
+"read": [
+"American Gods",
+"Milk and Honey"
+],
+"favorite": [
+"The Elegance of the Hedgehog"
+]
+}
+}
+]
+}

@@ -1,0 +1,82 @@
+{
+	"Menu" : {
+		"deep fryer" : [
+			"french fries",
+			"funnel cake",
+			"corn dog"
+		],
+		"grill" : [
+			"hamburger",
+			"veggie burger"
+		],
+		"milkshake maker" : [
+			"chocolate shake",
+			"strawberry shake",
+			"vanilla shake"
+		],
+		"drink machine" : [
+			"small drink",
+			"medium drink",
+			"large drink",
+			"coffee"
+		]
+	},
+	"Customers" : [
+		{
+			"order" : [
+				"hamburger",
+				"french fries",
+				"vanilla shake",
+				"large drink"
+			]	
+		},
+		{
+			"order" : [
+				"hamburger",
+				"veggie burger",
+				"corn dog",
+				"french fries",
+				"chocolate shake",
+				"large drink"
+			]	
+		},
+		{
+			"order" : [
+				"hamburger",
+				"hamburger",
+				"hamburger",
+				"french fries",
+				"small drink",
+				"small drink",
+				"medium drink"
+			]	
+		},
+		{
+			"order" : [
+				"hamburger",
+				"funnel cake",
+				"medium drink"
+			]	
+		},
+		{
+			"order" : [
+				"hamburger",
+				"funnel cake",
+				"medium drink"
+			]	
+		},
+		{
+			"order" : [
+				"coffee"
+			]	
+		},
+		{
+			"order" : [
+				"veggie burger",
+				"corn dog",
+				"small drink",
+				"medium drink"
+			]	
+		}
+	]
+}

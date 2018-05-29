@@ -1,0 +1,50 @@
+
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+}
+a {
+	style: none;
+}
+body {
+	background-color: #53c653;
+}
+
+#container {
+	margin-top: 180px;
+	padding: 70px 0px;
+	background-color: #0099ff;
+}
+
+table {
+	margin:0 auto;
+}
+table td {
+	padding-right: 155px;
+}
+
+input[type="text"]{
+	display: block;
+	margin-bottom: 25px;
+	width: 440px;
+	margin:0 auto;
+	padding: 5px 10px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+	font-family: Roboto;
+	color: white;
+	margin: 5px 0px;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+
+#searchbox {
+	position: relative;
+}

@@ -1,0 +1,99 @@
+
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #53c653;
+}
+
+#corner {
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+a {
+	style: none;
+}
+
+#container {
+	margin-top: 40px;
+	padding: 70px 0px;
+	background-color: #0099ff;
+}
+
+#signup {
+	text-align: center;
+}
+
+/* #button {
+   background-color: #002db3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+} */
+
+table {
+	margin:0 auto;
+}
+table td {
+	padding-right: 155px;
+}
+
+table tr {
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+input[type="text"] {
+	-webkit-appearance: none;
+	display: block;
+	width: 320px;
+	margin:0 auto;
+	padding: 5px 10px;
+	font-family: Roboto;
+	font-size: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 100px;
+	font-family: Roboto;
+	color: white;
+	margin: 5px 0px;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+
+h2 {
+	font-size: 50px;
+	font-family: Roboto;
+	color: white;
+	margin: 5px 0px;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+}
+
+h4 {
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 0px;
+}
+
+#searchbox {
+	position: relative;
+	margin-bottom: 20px;
+	/* text-align: center; */
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
